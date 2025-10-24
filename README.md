@@ -23,7 +23,7 @@ pip install pillow
 ### Simple execution and display in terminal
 
 ```bash
-python deamonart.py input.jpg
+python asciify.py input.jpg
 ```
 
 ### Save output to a file
@@ -44,7 +44,7 @@ python deamonart.py input.jpg --out art.txt
 ## Example
 
 ```bash
-python deamonart.py photo.jpg -w 100 --color --out ascii.txt
+python asciify.py photo.jpg -w 100 --color --out ascii.txt
 ```
 
 ## License
