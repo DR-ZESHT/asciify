@@ -47,10 +47,6 @@ python deamonart.py input.jpg --out art.txt
 python deamonart.py photo.jpg -w 100 --color --out ascii.txt
 ```
 
-## Project Idea
-
-The goal of DeamonArt is to showcase the power of text in reproducing images. In a world dominated by graphics, this tool is a nod to the classic hacker era and text-based environments — where creativity started with characters.
-
 ## License
 
 This project is licensed under the MIT License.
